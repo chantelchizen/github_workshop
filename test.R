@@ -1,1 +1,2 @@
-#this is an R script to test out Git for the workshop
+# this is an R script to test out Git
+# it is working!
